@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\1CGT_Masters\2101726_CMP505_KW\source\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>D:\1CGT_Masters\2101726_CMP505_KW\source\Engine\colour_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\1CGT_Masters\2101726_CMP505_KW\source\Engine\colour_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\1CGT_Masters\2101726_CMP505_KW\source\Engine\light_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\1CGT_Masters\2101726_CMP505_KW\source\Engine\light_vs.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\1CGT_Masters\2101726_CMP505_KW\source\Engine\terrain_ps.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\1CGT_Masters\2101726_CMP505_KW\source\Engine\terrain_vs.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
